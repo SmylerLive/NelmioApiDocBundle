@@ -10,6 +10,11 @@ Version](https://poser.pugx.org/nelmio/api-doc-bundle/v/stable)](https://packagi
 The **NelmioApiDocBundle** bundle allows you to generate a decent documentation
 for your APIs.
 
+**This fork is intented to provide specific support of the 2.x version for smyler needs**
+
+This include for now:
+- Resource support for external provider. See [](https://github.com/nelmio/NelmioApiDocBundle/issues/946)
+
 Documentation
 -------------
 
